@@ -3,8 +3,9 @@ V2P2 is a small two-wheels self-balancing mobile robot platform. It contains a s
 
 In this repository, the following files are provided:
 1. Getting started guide.
-2. Using Arduino Nano or Micro as the user controller, examples to communicate with the Robot Controller.
-3. Andriod APK file for apps to control the V2P2 robot platform directly via Bluetooth.
-4. 3D STL files of the mechanical design.
+2. Serial communication protocol between the Robot Controller and User Controller.
+3. Using Arduino Nano or Micro as the user controller, examples to communicate with the Robot Controller.
+4. Andriod APK file for apps to control the V2P2 robot platform directly via Bluetooth.
+5. 3D STL files of the mechanical design.
 
 More details will be disclosed in future.
