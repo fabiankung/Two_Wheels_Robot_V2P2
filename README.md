@@ -12,3 +12,4 @@ In this repository, the following files are provided:
 7. The firmware for the micro-controller.
 
 More details will be provided in future [To do: wiring diagram].
+For more robot videos please see: https://www.youtube.com/@fkungms/videos
