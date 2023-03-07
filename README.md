@@ -11,3 +11,4 @@ In this repository, the following files are provided:
 6. The schematic and PCB layout of the main circuit board. The PCB is a 4-layers board.
 7. The firmware for the micro-controller.
 
+More details will be provided in future [To do: wiring diagram].
