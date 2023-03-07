@@ -8,6 +8,6 @@ In this repository, the following files are provided:
 3. Using Arduino Nano or Micro as the user controller, examples to communicate with the Robot Controller.
 4. Andriod APK file for apps to control the V2P2 robot platform directly via Bluetooth.
 5. 3D STL files of the mechanical design.
-6. The schematic and PCB layout of the main circuit board.
+6. The schematic and PCB layout of the main circuit board. The PCB is a 4-layers board.
 7. The firmware for the micro-controller.
 
